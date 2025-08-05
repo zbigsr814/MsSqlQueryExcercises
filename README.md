@@ -1,5 +1,12 @@
-# MsSqlQueryExcercises
-Execyting example query tesks.
+URUCHOMIENIE PROJEKTU
+
+- Zainstalowany system bazodanowy MS SQL jest wymagany
+- Tworzymy dowolną bazę danych
+- Uruchamiamy skrypt CreateTables.sql
+- Uruchamiamy skrypt DbSeeder.sql
+- Przechodzimy do ExercisedQueries.sql i uruchamiamy ineresujące nas skrypty dla zadań
+
+TREŚĆ ZADAŃ
 
 Wykonać zapytania SQL zwracające:
 1. Zwracające wszystkie sprawne urządzenia dystrybutora 29
